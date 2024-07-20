@@ -1,0 +1,10 @@
+# NESMaker specific ignores
+/Build/
+/bin/
+*.nes
+*.bak
+*.log
+
+# OS specific ignores
+.DS_Store
+Thumbs.db
