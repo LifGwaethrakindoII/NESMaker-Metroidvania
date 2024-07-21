@@ -1,0 +1,182 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 0 GameItem: Player
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Player
+;; Size = 2 by2
+;; Animation = DefaultAnimation
+GameItem0_0:
+.db #$00
+.db #%00000000
+.db #$01
+.db #%00000000
+.db #$10
+.db #%00000000
+.db #$11
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 1 GameItem: Melee
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Melee
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem1_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 2 GameItem: Projectile Source
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Projectile Source
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem2_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 3 GameItem: Projectile
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Projectile
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem3_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 4 GameItem: Health Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Health Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem4_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 5 GameItem: Charge Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Charge Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem5_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 6 GameItem: Key Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Key Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem6_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 7 GameItem: Currency Pickup
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Currency Pickup
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem7_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 8 GameItem: Effect 0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 0
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem8_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 9 GameItem: Effect 1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 1
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem9_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 10 GameItem: Effect 2
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 2
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem10_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 11 GameItem: Effect 3
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 3
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem11_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 12 GameItem: Effect 4
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 4
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem12_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 13 GameItem: Effect 5
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 5
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem13_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 14 GameItem: Effect 6
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 6
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem14_0:
+.db #$00
+.db #%00000000
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;; 15 GameItem: Effect 7
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Monster = Effect 7
+;; Size = 1 by1
+;; Animation = DefaultAnimation
+GameItem15_0:
+.db #$00
+.db #%00000000
+
+

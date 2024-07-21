@@ -1,0 +1,27 @@
+;; *************** HUD_UPDATES.dat ***************
+;; HUD includes export. Saturday, July 20, 2024 9:00:29 PM
+
+updateHudElement0:
+ RTS
+
+updateHudElement1:
+ RTS
+
+updateHudElement2:
+ RTS
+
+updateHudElement3:
+ RTS
+
+updateHudElement4:
+ RTS
+
+updateHudElement5:
+ RTS
+
+updateHudElement6:
+ RTS
+
+updateHudElement7:
+ RTS
+

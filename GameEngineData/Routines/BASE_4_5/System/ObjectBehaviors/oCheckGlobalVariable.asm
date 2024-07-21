@@ -1,0 +1,3 @@
+oCheckGlobalVariable
+
+	RTS

@@ -1,0 +1,3 @@
+oCreateObjectAtPosition:
+
+	RTS

@@ -1,0 +1,1 @@
+MYTEXT EQU Text2

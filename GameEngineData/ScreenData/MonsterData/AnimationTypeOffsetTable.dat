@@ -1,0 +1,257 @@
+;; Monster: snailMonster
+Object0_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$01, #$02, #$00
+
+;; Monster: bugMonster
+Object1_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: flyBall
+Object2_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$01, #$00, #$00, #$00
+
+;; Monster: Hoad
+Object3_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: Centipede
+Object4_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: bugMonsterJumper
+Object5_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object6_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object7_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object8_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object9_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object10_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object11_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object12_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object13_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object14_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object15_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object16_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object17_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object18_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object19_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object20_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object21_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object22_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object23_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object24_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object25_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object26_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object27_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object28_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object29_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object30_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object31_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object32_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object33_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object34_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object35_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object36_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object37_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object38_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object39_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object40_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object41_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object42_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object43_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object44_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object45_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object46_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object47_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object48_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object49_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object50_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object51_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object52_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object53_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object54_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object55_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object56_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object57_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object58_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object59_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object60_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object61_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object62_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object63_AnimationTypeOffsetTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+

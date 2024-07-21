@@ -1,0 +1,257 @@
+;; Monster: snailMonster
+Object0_animSpeedTable:
+	.db #$06, #$06, #$06, #$06, #$00, #$06, #$06, #$06
+
+;; Monster: bugMonster
+Object1_animSpeedTable:
+	.db #$08, #$08, #$08, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: flyBall
+Object2_animSpeedTable:
+	.db #$04, #$06, #$06, #$08, #$04, #$06, #$06, #$06
+
+;; Monster: Hoad
+Object3_animSpeedTable:
+	.db #$0a, #$0a, #$0f, #$0a, #$0a, #$0a, #$0a, #$0f
+
+;; Monster: Centipede
+Object4_animSpeedTable:
+	.db #$06, #$03, #$03, #$06, #$06, #$03, #$03, #$06
+
+;; Monster: bugMonsterJumper
+Object5_animSpeedTable:
+	.db #$08, #$08, #$08, #$08, #$08, #$08, #$08, #$08
+
+;; Monster: NULL
+Object6_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object7_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object8_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object9_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object10_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object11_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object12_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object13_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object14_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object15_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object16_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object17_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object18_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object19_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object20_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object21_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object22_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object23_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object24_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object25_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object26_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object27_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object28_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object29_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object30_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object31_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object32_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object33_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object34_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object35_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object36_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object37_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object38_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object39_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object40_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object41_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object42_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object43_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object44_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object45_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object46_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object47_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object48_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object49_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object50_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object51_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object52_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object53_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object54_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object55_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object56_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object57_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object58_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object59_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object60_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object61_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object62_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+;; Monster: NULL
+Object63_animSpeedTable:
+	.db #$00, #$00, #$00, #$00, #$00, #$00, #$00, #$00
+
+

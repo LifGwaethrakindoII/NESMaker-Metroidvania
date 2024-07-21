@@ -1,9 +1,11 @@
 # NESMaker specific ignores
 /Build/
 /bin/
+/Emulator
 *.nes
 *.bak
 *.log
+*.sav
 
 # OS specific ignores
 .DS_Store
