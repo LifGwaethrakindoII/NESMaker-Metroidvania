@@ -1,11 +1,11 @@
 ;; *************** MonsterList.txt ***************
-;; Monster list export. Saturday, July 20, 2024 9:00:29 PM
+;; Monster list export. Friday, August 2, 2024 10:08:50 PM
 
 ;;;; 0	GameItem: Player ID=0
-;;;; 1	GameItem: Melee ID=1
-;;;; 2	GameItem: Projectile Source ID=2
-;;;; 3	GameItem: Projectile ID=3
-;;;; 4	GameItem: Health Pickup ID=4
+;;;; 1	GameItem: proj ID=1
+;;;; 2	GameItem: megaProj ID=2
+;;;; 3	GameItem: HealthPickup ID=3
+;;;; 4	GameItem: AmmoPickup ID=4
 ;;;; 5	GameItem: Charge Pickup ID=5
 ;;;; 6	GameItem: Key Pickup ID=6
 ;;;; 7	GameItem: Currency Pickup ID=7
@@ -17,3 +17,4 @@
 ;;;; 13	GameItem: Effect 5 ID=13
 ;;;; 14	GameItem: Effect 6 ID=14
 ;;;; 15	GameItem: Effect 7 ID=15
+;;;; 0	Monster: ProbeDroid ID=0
