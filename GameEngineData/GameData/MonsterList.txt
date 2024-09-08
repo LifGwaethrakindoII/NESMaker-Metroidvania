@@ -1,5 +1,5 @@
 ;; *************** MonsterList.txt ***************
-;; Monster list export. Friday, August 2, 2024 10:08:50 PM
+;; Monster list export. Thursday, August 29, 2024 10:27:58 PM
 
 ;;;; 0	GameItem: Player ID=0
 ;;;; 1	GameItem: proj ID=1

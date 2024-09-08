@@ -74,7 +74,7 @@
 +doJump:
     TXA
     STA temp ;; assumes the object we want to move is in x.
-    PlaySound #sfx_thump
+    ;;PlaySound #sfx_thump COMENTE EL EJECUTAR SONIDO DE SALTO PORQUE BECAUSE IS MISSING.
 
     LDY Object_type,x
     LDA ObjectJumpSpeedLo,y
