@@ -1,0 +1,2 @@
+;;; Simple Reset
+	JMP RESET

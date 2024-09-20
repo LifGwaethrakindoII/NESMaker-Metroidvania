@@ -1,0 +1,4 @@
+oCheckLocalVariable:
+
+	RTS
+	

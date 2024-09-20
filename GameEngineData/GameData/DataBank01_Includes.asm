@@ -1,5 +1,5 @@
 ;; *************** DataBank01_Includes.asm ***************
-;; Script data export. Thursday, September 19, 2024 6:44:47 PM
+;; Script data export. Thursday, September 19, 2024 7:17:21 PM
 Script00:
 	.include "Routines\BASE_4_5\Game\inputScripts\moveRight.asm"
 Script01:

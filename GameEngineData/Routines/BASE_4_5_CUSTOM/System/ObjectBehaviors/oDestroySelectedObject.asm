@@ -1,0 +1,3 @@
+oDestroySelectedObject:
+
+	RTS
